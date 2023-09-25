@@ -27,5 +27,6 @@
 <img height="150cm" class="img" src="https://github-readme-stats.vercel.app/api?username=ahcrej&show_icons=true&theme=blue-green&include_all_commits=true" />
 &nbsp;
 &nbsp;
+<img height="150cm" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcrej&layout=compact&theme=blue-green" /></div>
 </div>
 
