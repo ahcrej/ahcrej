@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 &nbsp;Hey there! I'm Jeremy </h1>
 
 
-##  💻 Some of my code
+##  Some of my code
 #### ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; [Spotify Audio Features Heatmap](https://github.com/ahcrej/spotify_audio_features_heatmap)
 - Project using the Spotipy library to interact with the Spotify Web API.
 ## University of Helsinki MOOC
