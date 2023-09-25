@@ -4,7 +4,7 @@
 ##  💻 Some of my code
 |**Repository**|**Description**|
 |:----------|:----|
-| 🌐 [Spotify Audio Features Heatmap](https://github.com/ahcrej/spotify-audio-features-heatmap) | Project using the Spotipy library to interact with the Spotify Web API.|
+| 🌐 [Spotify Audio Features Heatmap](https://github.com/ahcrej/spotify_audio_features_heatmap) | Project using the Spotipy library to interact with the Spotify Web API.|
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div class='container'>
