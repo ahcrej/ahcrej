@@ -1,6 +1,0 @@
-/* Add an anchor icon before header elements */
-h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
-    content: "🔗 "; /* You can replace this with your desired anchor symbol */
-    display: inline-block;
-    margin-right: 8px; /* Adjust the spacing as needed */
-}
