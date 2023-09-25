@@ -7,7 +7,7 @@
 | 🌐 [Spotify Audio Features Heatmap](https://github.com/ahcrej/spotify-audio-features-heatmap) | Project using the Spotipy library to interact with the Spotify Web API.|
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="left">
 <a href="https://github.com/P4r1nc3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahcrej&layout=compact&langs_count=8&theme=algolia"/>
 </a>
