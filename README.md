@@ -6,10 +6,10 @@
   
 ## University of Helsinki MOOC
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic)&nbsp; [Data Analysis with Python](https://github.com/ahcrej/Data_Analysis_with_Python)
-- This is [University of Helsinki’s free massive open online course (MOOC) on Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/dap-22).
+- This is University of Helsinki’s free massive open online course (MOOC) on [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/dap-22).
   
 ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=plastic)&nbsp; [Java Programming I](https://github.com/ahcrej/Java_Programming_MOOC_I)
-- This is the Part I of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/).
+- This is the Part I of the University of Helsinki’s free massive open online course (MOOC) on [Object-Oriented Programming with Java](https://java-programming.mooc.fi/).
 
 <!--
 |**Repository**|**Description**|
