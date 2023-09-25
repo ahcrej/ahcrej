@@ -1,6 +1,3 @@
-<!-- Custom CSS -->
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 <h1 align="center"> 👋 &nbsp;Hey there! I'm Jeremy </h1>
 
 ## Some of my code
