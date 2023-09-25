@@ -8,10 +8,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div class='container'>
-<img height="150cm" class="img" src="https://github-readme-stats.vercel.app/api?username=ahcrej&show_icons=true&theme=blue-green" />
+<img height="170cm" class="img" src="https://github-readme-stats.vercel.app/api?username=ahcrej&show_icons=true&theme=blue-green&include_all_commits=true" />
 &nbsp;
 &nbsp;
-<img height="150cm" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcrej&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img height="170cm" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcrej&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 <!--
